@@ -3,7 +3,7 @@
 This repo consists of curated links required to learn bioinformatics. The goal is to provide a structured path to beginners for starting their journey as a bioinformatician.
 
 
-##Table of Contents
+# Table of Contents
 - [Linux](#linux)
 - [Python](#Python)
 - [R Programming](#R)
@@ -13,5 +13,5 @@ This repo consists of curated links required to learn bioinformatics. The goal i
 - [Machine Learning](#MachineLearning)
 - [Communities](#Communities)
 
-##Linux
+# Linux
 - [Linux Installation Guide:Linux Environment for Windows Users](https://documentation.ubuntu.com/wsl/stable/howto/install-ubuntu-wsl2/)
