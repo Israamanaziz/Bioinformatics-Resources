@@ -1,6 +1,6 @@
 # Bioinformatics-Resources
 
-This repo consists of curated links required to learn bioinformatics. The goal is to provide a structured path to beginners for starting their journey as a bioinformatician.
+This repo consists of curated links required to learn bioinformatics from scratch. The goal is to provide a structured path to beginners for starting their journey as a bioinformatician.
 
 
 # Table of Contents
