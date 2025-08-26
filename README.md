@@ -20,24 +20,28 @@ This repo consists of curated links required to learn bioinformatics. The goal i
 - [Linux journey](https://linuxjourney.com/)
 - [Linux command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
 
+
 # Python
 - [Google Colab for python ](https://colab.google/)
 - [Tutorial using Biopython](https://biopython.org/wiki/Category%3ACookbook)
 - [Python for Genomic Data Science on Coursera](https://www.coursera.org/learn/python-genomics?utm_medium=sem&utm_source=gg&utm_campaign=b2c_india_google-it-automation_google_ftcof_professional-certificates_cx_dr_bau_gg_pmax_pr_in_all_m_hyb_22-11_x&campaignid=19197733182&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&creativeid=&assetgroupid=6458849661&targetid=&extensionid=&placement=&gad_source=1&gad_campaignid=19204410364&gbraid=0AAAAADdKX6Z-XILLTKLS-A3Ff1ibAUCN6&gclid=Cj0KCQjw8KrFBhDUARIsAMvIApZStwWbsD2rJaY9XiRxoUUc1g0DYytfIEAE4QbMmbUJeevzyxsOSZ4aAu7LEALw_wcB)
 
+
 # R
 - [R and RStudio installation guide](https://rstudio-education.github.io/hopr/starting.html)
 - [R for Bioinformatics](https://rpubs.com/Ashu_7/Bio_tut)
+
 
 # Biology
 - [Central Dogma: Intro to Gene Expression](https://www.khanacademy.org/science/ap-biology/gene-expression-and-regulation/translation/a/intro-to-gene-expression-central-dogma)
 - [Basics of biology](https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/General_Biology_(Boundless))
 
-  # Bioinformatics
-  - [Bioinformatics Workbook: hands-on tutorials](https://bioinformaticsworkbook.org/#gsc.tab=0)
-  - [Bioinformagician: Youtube channel for practical learning](https://www.youtube.com/@Bioinformagician)
-  - [Bulk RNA-Seq course on Udemy](https://www.udemy.com/course/rnaseq_data_analysis/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Search_DSA_Beta_Prof_la.EN_cc.India_Subs&campaigntype=Search&portfolio=India&language=EN&product=Subs&test=&audience=DSA&topic=&priority=Beta&utm_content=deal4584&utm_term=_._ag_185390584313_._ad_769665429119_._kw__._de_c_._dm__._pl__._ti_dsa-2436670172539_._li_9298876_._pd__._&matchtype=&gad_source=1&gad_campaignid=22900574867&gbraid=0AAAAADROdO0eFTVXw5580k7usE7EQ38Tk&gclid=Cj0KCQjw8KrFBhDUARIsAMvIApbaKST-00HyDb94uwc_38rXdrr93bRZKFRLvvABCB_JZB2PN3ObGzIaAuHzEALw_wcB&couponCode=PMNVD2025)
-  - [Analyzing RNA-Seq using DESeq2(R)](https://bioconductor.org/packages/devel/bioc/vignettes/DESeq2/inst/doc/DESeq2.html)
+
+# Bioinformatics
+- [Bioinformatics Workbook: hands-on tutorials](https://bioinformaticsworkbook.org/#gsc.tab=0)
+- [Bioinformagician: Youtube channel for practical learning](https://www.youtube.com/@Bioinformagician)
+- [Bulk RNA-Seq course on Udemy](https://www.udemy.com/course/rnaseq_data_analysis/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Search_DSA_Beta_Prof_la.EN_cc.India_Subs&campaigntype=Search&portfolio=India&language=EN&product=Subs&test=&audience=DSA&topic=&priority=Beta&utm_content=deal4584&utm_term=_._ag_185390584313_._ad_769665429119_._kw__._de_c_._dm__._pl__._ti_dsa-2436670172539_._li_9298876_._pd__._&matchtype=&gad_source=1&gad_campaignid=22900574867&gbraid=0AAAAADROdO0eFTVXw5580k7usE7EQ38Tk&gclid=Cj0KCQjw8KrFBhDUARIsAMvIApbaKST-00HyDb94uwc_38rXdrr93bRZKFRLvvABCB_JZB2PN3ObGzIaAuHzEALw_wcB&couponCode=PMNVD2025)
+- [Analyzing RNA-Seq using DESeq2(R)](https://bioconductor.org/packages/devel/bioc/vignettes/DESeq2/inst/doc/DESeq2.html)
 - [Introduction to Galaxy platform for GUI-based computational biological research ](https://training.galaxyproject.org/training-material/topics/introduction/)
 - [Biostar Handbook: A guide to bioinformatics data analysis](https://www.biostarhandbook.com/)
 - [Rosalind: Platform for learning bioinformatics using problem solving](https://rosalind.info/problems/locations/)
