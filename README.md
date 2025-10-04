@@ -18,10 +18,8 @@ Whether you're looking for learning materials, career opportunities, or reputabl
 *   [**Bioinformatics Journals**](./BioinformaticsJournals.md)  
     *A list of reputable journals for literature survey and publishing your research.
 
-*   [📝 **License**](#-license)
-
 ---
 
 ## 📝 License
 
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](./License) file for details.
