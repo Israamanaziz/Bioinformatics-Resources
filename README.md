@@ -15,7 +15,7 @@ Whether you're looking for learning materials, career opportunities, or reputabl
 *   [**Internships in India**](./Internships.md)  
   A curated list of bioinformatics internships in both the private and government sectors in India.
 
-*   [**Bioinformatics Journals**](./Bioinformatics Journals.md)  
+*   [**Bioinformatics Journals**](./Bioinformatics_Journals.md)  
   A list of reputable journals for literature survey and publishing your research.
 
 ---
